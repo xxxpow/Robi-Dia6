@@ -1,0 +1,21 @@
+# Build artifacts
+*.o
+*.elf
+*.hex
+*.bin
+
+# IDE
+.vscode/
+.idea/
+*.iml
+build/
+.gradle/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary
+*.tmp
+*.bak
